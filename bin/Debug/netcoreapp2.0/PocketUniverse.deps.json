@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "ac95c23a7e17b79849816337d1960e576d42df93"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "PocketUniverse/1.0.0": {
+        "dependencies": {
+          "LiteDB": "3.1.5",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "PocketUniverse.dll": {}
+        }
+      },
+      "LiteDB/3.1.5": {
+        "runtime": {
+          "lib/netstandard1.3/LiteDB.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PocketUniverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteDB/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VgXFmwmtBw1bCSueaXwPpMQSkCakMwPlUESIxowm5Cf/he8mziLeRhshlafDtk9EJe9s9Kd/3cUgaAIq/xNUsQ==",
+      "path": "litedb/3.1.5",
+      "hashPath": "litedb.3.1.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    }
+  }
+}

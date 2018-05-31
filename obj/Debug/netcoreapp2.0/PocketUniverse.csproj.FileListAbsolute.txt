@@ -1,0 +1,11 @@
+K:\dev\PocketUniverse\bin\Debug\netcoreapp2.0\PocketUniverse.deps.json
+K:\dev\PocketUniverse\bin\Debug\netcoreapp2.0\PocketUniverse.runtimeconfig.json
+K:\dev\PocketUniverse\bin\Debug\netcoreapp2.0\PocketUniverse.runtimeconfig.dev.json
+K:\dev\PocketUniverse\bin\Debug\netcoreapp2.0\PocketUniverse.dll
+K:\dev\PocketUniverse\bin\Debug\netcoreapp2.0\PocketUniverse.pdb
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.csprojAssemblyReference.cache
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.csproj.CoreCompileInputs.cache
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.AssemblyInfoInputs.cache
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.AssemblyInfo.cs
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.dll
+K:\dev\PocketUniverse\obj\Debug\netcoreapp2.0\PocketUniverse.pdb

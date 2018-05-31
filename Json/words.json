@@ -1,0 +1,27 @@
+{
+    "words": [
+        { "Type": "Noun", "Name": "spaceship", "Value": "spaceship" },
+        { "Type": "Pronoun", "Name": "FirstPerson", "Value": "I" },
+        { "Type": "Pronoun", "Name": "SecondPerson", "Value": "you" },
+        { "Type": "Pronoun", "Name": "ThirdPersonMale", "Value": "he" },
+        { "Type": "Pronoun", "Name": "ThirdPersonFemale", "Value": "she" },
+        { "Type": "Pronoun", "Name": "ThirdPersonPlural", "Value": "they" },
+        { "Type": "PrepositionObj", "Name": "ThirdPersonMaleIs", "Value": "him" },
+        { "Type": "PrepositionObj", "Name": "ThirdPersonFemaleIs", "Value": "her" },
+        { "Type": "PrepositionObj", "Name": "ThirdPersonPluralIs", "Value": "them" },
+        { "Type": "Adjective", "Name": "FirstPersonPoss", "Value": "my" },
+        { "Type": "Adjective", "Name": "SecondPersonPoss", "Value": "your" },
+        { "Type": "Adjective", "Name": "SinglePoss", "Value": "'s" },
+        { "Type": "Adjective", "Name": "PluralPoss", "Value": "s'" },
+        { "Type": "PredicateNom", "Name": "PluralPossIs", "Value": "theirs" },
+        { "Type": "Adjective", "Name": "MalePoss", "Value": "his" },
+        { "Type": "PredicateNom", "Name": "MalePossIs", "Value": "his" },
+        { "Type": "Adjective", "Name": "FemalePoss", "Value": "her" },
+        { "Type": "PredicateNom", "Name": "FemalePossIs", "Value": "hers"},
+        { "Type": "Conjunction", "Name": "And", "Value": "and" },
+        { "Type": "Conjunction", "Name": "Or", "Value": "or" },
+        { "Type": "Conjunction", "Name": "Nor", "Value": "nor" },
+        { "Type": "Conjunction", "Name": "But", "Value": "but" },
+        { "Type": "Conjunction", "Name": "Yet", "Value": "yet" }
+    ]
+}
