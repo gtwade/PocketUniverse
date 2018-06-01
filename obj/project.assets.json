@@ -727,23 +727,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\guy\\.nuget\\packages\\": {},
+    "C:\\Users\\gtwad\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "k:\\dev\\PocketUniverse\\PocketUniverse.csproj",
+      "projectUniqueName": "c:\\Users\\gtwad\\source\\repos\\PocketUniverse\\PocketUniverse.csproj",
       "projectName": "PocketUniverse",
-      "projectPath": "k:\\dev\\PocketUniverse\\PocketUniverse.csproj",
-      "packagesPath": "C:\\Users\\guy\\.nuget\\packages\\",
-      "outputPath": "k:\\dev\\PocketUniverse\\obj\\",
+      "projectPath": "c:\\Users\\gtwad\\source\\repos\\PocketUniverse\\PocketUniverse.csproj",
+      "packagesPath": "C:\\Users\\gtwad\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\gtwad\\source\\repos\\PocketUniverse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\guy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gtwad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
