@@ -11,12 +11,22 @@ namespace PocketUniverse
         public Map[,] MapArray { get; set; }
         public bool CanTakeMapPoints { get; set; }
 
+        #region Ctor
+        public Map() {}
+
         public Map(ScaleType scale, int dimension, bool canTakeMapPoints)
         {
             Scale = scale;
             Dimension = dimension;
-            MapArray = new Map[dimension, dimension];
             CanTakeMapPoints = canTakeMapPoints;
+
+            InitializeMapArray(dimension);
+        }
+        #endregion
+
+        public void InitializeMapArray(int dimension)
+        {
+            MapArray = new Map[dimension, dimension];
         }
 
         public void AddMapPoint(int x, int y, Map map, ScaleType scale, int dimension, bool canTakeMapPoints)
