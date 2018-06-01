@@ -9,8 +9,12 @@ namespace PocketUniverse
     {
         static void Main(string[] args)
         {
-            GameStart gameStart = new GameStart();
-            gameStart.Start();
+            //GameStart gameStart = new GameStart();
+            //gameStart.Start();
+            var galaxy = new Galaxy(ScaleType.Galaxy, 19, true);
+
+            Console.WriteLine(galaxy.MapArray.Length.ToString());
+
         }
     }
 }
