@@ -6,6 +6,8 @@ namespace PocketUniverse
         Lizardek,
         Floran,
         Mindek,
-        Klavek
+        Klavek, // Cat
+        Tendek, // Sea based, tentacles
+        Limdek // four arms, humanoid
     }
 }
